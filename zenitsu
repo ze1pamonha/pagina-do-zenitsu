@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a historia do zenitsu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="titulo"><h1>zenitsu o grande espadachim</h1></header>
+    <p>Não tendo sido criado pelos seus pais, Zenitsu passou boa parte de sua vida sozinho, algo que parece ter afetado sua confiança e autoestima. Sem nenhuma orientação apropriada em sua vida, o rapaz acabou se apaixonando por uma jovem e, para conquistá-la, decidiu lhe dar dinheiro</p>
+    <h2 class="subtitulo">por que o Zenitsu so luta dormindo?</h2>
+    <p>Isso ocorre porque, nesse estado de espírito, seu corpo se move com base no puro instinto, o que significa que seu nível de esgrima é muito alto, assim como sua capacidade de se defender contra demônios de alto escalão.</p>
+    <img src="imagem1.jpeg" class="imagemprincipal">
+    <p>Zenitsu, definitivamente, não é um favorito. Com uma personalidade extravagante para alguns</p>
+    <p> Mas, algo que se destaca nele são suas habilidades como Caçador de Demônios. Capaz de se equiparar com um Hashira, Zenitsu é uma caixinha de surpresas, seja em seu passado</p>
+    <img src="imagem2.jpeg" class="ima" >
+</body>
+</html>
